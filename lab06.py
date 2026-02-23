@@ -1,7 +1,7 @@
 # ============================================================
 #  WEEK 06 LAB: NETWORK DIAGNOSTIC LOGGER
 #  COMP2152 — Linux Version
-#  [Your Name Here]
+#  [Tommy Shek]
 # ============================================================
 #
 #  This program runs network commands (ping, nslookup, ip addr),
