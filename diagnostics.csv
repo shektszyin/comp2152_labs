@@ -1,0 +1,5 @@
+2026-02-22 23:40:07,ping,google.com,21.835,Success
+2026-02-22 23:40:27,nslookup,githuh.com,Error: [Errno 2] No such file or directory: 'nslookup',Failed
+2026-02-22 23:40:37,nslookup,github.com,Error: [Errno 2] No such file or directory: 'nslookup',Failed
+2026-02-22 23:41:02,nslookup,google.com,Error: [Errno 2] No such file or directory: 'nslookup',Failed
+2026-02-22 23:41:11,ip_addr,show,00:16:3e:4e:bd:94 / 100.115.92.205,Captured
